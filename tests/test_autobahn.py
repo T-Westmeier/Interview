@@ -4,7 +4,7 @@ import folium
 import pandas as pd
 import pytest
 
-from autobahn.autobahn import (
+from interveiw.autobahn import (
     TrafficWarning,
     calculate_traffic_length,
     get_warnings,
