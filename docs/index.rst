@@ -1,12 +1,12 @@
 ========
-autobahn
+interview
 ========
 
-This is the documentation of **autobahn**.
+This is the documentation of **interview**.
 
 .. note::
 
-    Welcome to the **autobahn** package documentation.
+    Welcome to the **interview** package documentation.
     This package provides tools and utilities for efficient and effective social coding.
     Explore the sections below to learn more about the features, contributions, and usage of this package.
 
