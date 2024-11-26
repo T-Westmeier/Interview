@@ -1,4 +1,4 @@
-from interview import add_vars
+from interview.test_file import add_vars
 
 def test_add_vars_integers():
     assert add_vars(1, 2) == 3
