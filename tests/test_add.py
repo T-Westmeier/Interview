@@ -1,4 +1,5 @@
 from interview.test_file import add_vars
+import numpy as np
 
 def test_add_vars_integers():
     assert add_vars(1, 2) == 3
